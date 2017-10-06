@@ -1,6 +1,6 @@
 # Kappa Tools
 
-[![Build Status](https://travis-ci.org/KappaAnalysis/KappaTools.svg)](https://travis-ci.org/KappaAnalysis/KappaTools)
+[![Build Status](https://travis-ci.org/KIT-CMS/KappaTools.svg)](https://travis-ci.org/KIT-CMS/KappaTools)
 
 ĸappa tools are tools that can be used to run an analysis
 using ĸappa based data formats and root files. This library
