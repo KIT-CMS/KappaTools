@@ -29,5 +29,5 @@ void displayHLT(KLumiInfo *infoLumi, KEventInfo *infoEvent)
 	for (size_t hltIdx = 0; hltIdx < infoLumi->hltNames.size(); ++hltIdx)
 		if (infoEvent->bitsHLT[hltIdx])
 			std::cout << hltIdx << ":" << infoLumi->hltNames[hltIdx] << " ";
-		std::cout << std::endl;
+	std::cout << std::endl;
 }
